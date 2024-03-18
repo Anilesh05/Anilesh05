@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="[https://your-image-url.com/your-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F63700641%2FComputer-Programming-Software-Code-4K-Background&psig=AOvVaw1ZuOqeNksRV1dF7cExHJ7J&ust=1710863603711000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCIDNre2V_oQDFQAAAAAdAAAAABCgAQ)" width="200" height="200" alt="Anilesh.">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif" width="200" height="200" alt="Anilesh.">
 </p>
 <h1 align="center">Hi there! 👋 I'm Anilesh.</h1>
 <p align="center">BCA Data Science Student | Programmer | Linux Enthusiast</p>
