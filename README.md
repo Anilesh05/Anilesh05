@@ -52,5 +52,5 @@
 
 <!-- Footer Section -->
 <p align="center">
-  <img src="https://your-footer-image-url.com/your-footer-image.png" width="300" alt="Footer Image">
+  <img src="https://media.istockphoto.com/id/1396069649/vector/medical-background-and-healthcare-technology-with-flat-icons-and-symbols-concept-and-idea.jpg?s=612x612&w=0&k=20&c=eQN1m963D5AadPg4mEtCYnuMEXwpUSyCNhC174bRd8M=)https://media.istockphoto.com/id/1396069649/vector/medical-background-and-healthcare-technology-with-flat-icons-and-symbols-concept-and-idea.jpg?s=612x612&w=0&k=20&c=eQN1m963D5AadPg4mEtCYnuMEXwpUSyCNhC174bRd8M=" width="300" alt="Footer Image">
 </p>
