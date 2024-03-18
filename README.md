@@ -32,12 +32,6 @@
 </p>
 
 
-## Projects 🚀
-
-- **[Project Name 1](link-to-project)**: Brief description of the project and the technologies used.
-- **[Project Name 2](link-to-project)**: Brief description of the project and the technologies used.
-- **[Project Name 3](link-to-project)**: Brief description of the project and the technologies used.
-
 ## Education 📚
 
 - **Bachelor of Computer Applications (BCA) in Data Science**  
@@ -52,5 +46,5 @@
 
 <!-- Footer Section -->
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1396069649/vector/medical-background-and-healthcare-technology-with-flat-icons-and-symbols-concept-and-idea.jpg?s=612x612&w=0&k=20&c=eQN1m963D5AadPg4mEtCYnuMEXwpUSyCNhC174bRd8M=" width="300" alt="Footer Image">
+  <img src="https://media.istockphoto.com/id/1396069649/vector/medical-background-and-healthcare-technology-with-flat-icons-and-symbols-concept-and-idea.jpg?s=612x612&w=0&k=20&c=eQN1m963D5AadPg4mEtCYnuMEXwpUSyCNhC174bRd8M=" width="1200" height="250" alt="Footer Image">
 </p>
