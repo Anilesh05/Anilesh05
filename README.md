@@ -6,7 +6,7 @@
 <p align="center">BCA Data Science Student | Programmer | Linux Enthusiast</p>
 
 <!-- About Me Section -->
-## About Me ℹ️
+
 
 🎓 I'm a BCA Data Science Student at Crescent University | Passionate about leveraging data for insights and solutions 📊 | Exploring the intersection of computer applications and data science 🌐
 
@@ -21,16 +21,18 @@
 <h3 align="left">
 
 <!-- GitHub Stats Section -->
+## GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anilesh05&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- Most Used Languages Section -->
+
+## Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilesh05&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilesh05&show_icons=true&locale=en&layout=compact" alt="anilesh05" /> </p>
 
 ## Projects 🚀
 
