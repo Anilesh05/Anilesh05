@@ -1,8 +1,8 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" width="200" height="200" alt="Your Name">
+  <img src="https://your-image-url.com/your-image.png" width="200" height="200" alt="Anilesh.">
 </p>
-<h1 align="center">Hi there! 👋 I'm Your Name</h1>
+<h1 align="center">Hi there! 👋 I'm Anilesh.</h1>
 <p align="center">BCA Data Science Student | Programmer | Linux Enthusiast</p>
 
 <!-- About Me Section -->
@@ -26,11 +26,11 @@
 ## Education 📚
 
 - **Bachelor of Computer Applications (BCA) in Data Science**  
-  Crescent University, [Year of Graduation]
+  Crescent University.
 
 ## Contact 📧
 
-Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Feel free to reach out to me via [email](mailto:anileshmoses05@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/mwlite/feed/?trk=guest_homepage-basic_google-one-tap-submit)).
 
 <!-- Footer Section -->
 <p align="center">
