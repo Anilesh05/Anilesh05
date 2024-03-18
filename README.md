@@ -27,7 +27,7 @@
 
 <!-- Most Used Languages Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilesh05&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilesh05&show_icons=true&locale=en&layout=compact" alt="anilesh05" /> </p>
