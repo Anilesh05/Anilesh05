@@ -20,6 +20,16 @@
 - Big Data Technologies: Hadoop , Hive <p align="left">  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> </p> 
 <h3 align="left">
 
+<!-- GitHub Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<!-- Most Used Languages Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilesh05&show_icons=true&locale=en&layout=compact" alt="anilesh05" /> </p>
 
 ## Projects 🚀
