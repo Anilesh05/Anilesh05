@@ -34,6 +34,8 @@
 
 ## Education 📚
 
+- **Master of Computer Applications (MCA)**  
+  Crescent University.
 - **Bachelor of Computer Applications (BCA) in Data Science**  
   Crescent University.
 
