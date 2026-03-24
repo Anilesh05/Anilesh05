@@ -3,7 +3,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif" width="1200" height="300" alt="Anilesh.">
 </p>
 <h1 align="center">Hi there! 👋 I'm Anilesh.</h1>
-<p align="center">BCA Data Science Student | Programmer | Linux Enthusiast</p>
+<p align="center">MCA Student | Programmer | Linux Enthusiast</p>
 
 <!-- About Me Section -->
 
