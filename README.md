@@ -8,7 +8,7 @@
 <!-- About Me Section -->
 
 
-🎓 I'm a BCA Data Science Student at Crescent University | Passionate about leveraging data for insights and solutions 📊 | Exploring the intersection of computer applications and data science 🌐
+🎓 I'm an MCA Student at Crescent University | Software Developer | Passionate about Data Science & AI 📊 | Building full-stack apps with Python, Flask & React.js 🌐
 
 ## Skills 🛠️
 
